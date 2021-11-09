@@ -1,7 +1,70 @@
 .background{
-    background: url(images/contact-us-banner.png);
+   /* background: url(images/contact-us-banner.png);*/
     height: 500px;
+}
+.carousel-caption{
+    bottom: 220px;
+}
+.carousel-caption h2{
+    font-size: 60px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 900px;
+}
+.carousel-caption p{
+    font-size: 18px;
+    
+}
+.carousel-caption a{
+    text-decoration: none;
+    text-transform: uppercase;
+    background: darkorange;
+    padding: 10px 30px;
+    display: inline-block;
+    margin-top: 15px;
+    color: #fff;
+    border-radius: 50px;
+}
+.image-bg{
+    height: 600px;
 }
 .image{
     height: 500px;
+}
+.icon{
+    height: 100px;
+    width: 70px;
+    margin-right: 10px;
+    
+}
+.statistics{
+    background-color: #092a49;
+    height: 600px;
+}
+.state-image{
+    height: 700px;
+    width: 1000px;
+    padding: 50px;
+    margin-top: -100px;
+    
+}
+.state-product{
+    background-color: rgb(65, 65, 88);
+}
+.alignment{
+    margin-left: 100px;
+}
+.fix-height{
+    height: 300px;
+    width: 600px;
+}
+.btn-color{
+    background: #092a49;
+    padding:10px 20px ;
+    color: white;
+}
+.dash{
+    height: 300px;
+    background-color: #092a49;
+    color: white;
 }
